@@ -9,9 +9,6 @@ What is worked:
 4. Video + HDMI (After login on OS, not with connected second screen when OS is starting)
 5. Keyboard
 6. Touchpad
-
-What is not worked and I hope can be fixed:
-1. Sleep mode
-2. USB (USB flash is visible but USB mouse isn't)
-3. Some times after quit from sleep mode I have black screen and should be rebooted the Mac with hard reset
-4. After quit from sleep mode - bluetooth is stopped and not worked untill the Mac is rebooted. 
+7. Sleep mode
+8. USB (USB 2.0 and USB 3.0 is worked)
+9. After quit from sleep mode - bluetooth is worked.
